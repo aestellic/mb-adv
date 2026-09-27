@@ -1,0 +1,7 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "GBA") (type "KiCad") (uri "${KIPRJMOD}/libs/GBA.pretty") (options "") (descr ""))
+	(lib (name "logo") (type "KiCad") (uri "${KIPRJMOD}/libs/logo.pretty") (options "") (descr ""))
+	(lib (name "DIP4_SP3T-TOP_4P3X8P6_CNK") (type "KiCad") (uri "${KIPRJMOD}/libs/DIP4_SP3T-TOP_4P3X8P6_CNK.pretty") (options "") (descr ""))
+	(lib (name "BOB-12009") (type "KiCad") (uri "${KIPRJMOD}/libs/BOB-12009") (options "") (descr ""))
+)

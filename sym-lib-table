@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "xiao-rp2040") (type "KiCad") (uri "/home/aestellic/Dev/mbadvance/libs") (options "") (descr ""))
+)

@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
+"A1","1","RaspberryPi_Pico","","","","","${EXCLUDE_FROM_POS_FILES}","Module:RaspberryPi_Pico_Common_THT","https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf"
+"D1","1","1N5819","","","","","${EXCLUDE_FROM_POS_FILES}","Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal","http://www.vishay.com/docs/88525/1n5817.pdf"
+"SW2","1","SW_SP3T","","","","","${EXCLUDE_FROM_POS_FILES}","DIP4_SP3T-TOP_4P3X8P6_CNK:DIP4_SP3T-TOP_4P3X8P6_CNK","https://www.littelfuse.com/assetdocs/littelfuse-c-k-slide-os-series-datasheet?assetguid=f8954ac2-65ba-431f-af55-b0493370575e"
+"U2","1","gba_link_cable","","","","","${EXCLUDE_FROM_POS_FILES}","GBA:GBALinkPort_Male",""
+"U3","1","BOB-12009","","","","","${EXCLUDE_FROM_POS_FILES}","BOB-12009:CONV_BOB-12009","https://cdn.sparkfun.com/datasheets/BreakoutBoards/BSS138.pdf"
