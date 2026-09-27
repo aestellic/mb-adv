@@ -1,1 +1,23 @@
-GBA Multiboot Dongle
+# <img src="images/logo.png" width="200" style="image-rendering: pixelated"/>
+
+The mb_adv is a dongle for your GBA which injects multiboot ROMs via link cable.
+
+With it, you can do stuff like [shiny hunt Jirachi without being tethered to a Gamecube](https://bsky.app/profile/cozydelaney.standingintheodds.com/post/3mt42ccd4bk23), boot [Poké Transporter GB](https://github.com/Striaton-Lab-Team/Poke_Transporter_GB), and more!
+
+<img src="images/pcb/pcb_front.png" width="300"/> <img src="images/pcb/pcb_back.png" width="300"/>
+
+If you'd like to buy one and are located in the USA, you can visit my store here (link will be added when store goes live). Otherwise, please see [MANUFACTURING.md](MANUFACTURING.md) for how to build one yourself!
+
+# Usage
+W.I.P
+
+# Credits
+This project would not have been possible without the following people:
+- [Ashton Herron (Starlark)](https://github.com/starlarkus), who guided me through the planning stages of the mb_adv.
+- wheat jerm, who helped with designing the schematic and PCB.
+
+# License
+This project is fully open sourced under the [MIT license](LICENSE).
+
+# Technical References
+See [MANUFACTURING.md](MANUFACTURING.md) and [SCHEMATIC.pdf](SCHEMATIC.pdf)
