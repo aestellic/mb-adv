@@ -2421,16 +2421,6 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 80.01) (xy 54.61 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a99b81bc-f8d6-4a8d-88fd-e51137a4a742")
-	)
-	(wire
-		(pts
 			(xy 237.49 59.69) (xy 242.57 59.69)
 		)
 		(stroke
@@ -2521,13 +2511,23 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 77.47) (xy 54.61 77.47)
+			(xy 49.53 80.01) (xy 54.61 80.01)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "efc1e1f3-c0b3-4915-9e9d-e29ed266ef7c")
+	)
+	(wire
+		(pts
+			(xy 50.8 77.47) (xy 54.61 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f20175a3-49f8-44ef-9a4e-0454df1c1593")
 	)
 	(wire
 		(pts
@@ -2548,30 +2548,6 @@
 			(type default)
 		)
 		(uuid "f6fade03-ac35-4e70-b459-1e3b32784303")
-	)
-	(global_label "PSO"
-		(shape input)
-		(at 50.8 80.01 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0571811b-de89-4bf8-b5b2-c785df395836")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.0048 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
 	)
 	(global_label "HV"
 		(shape output)
@@ -2671,7 +2647,7 @@
 	)
 	(global_label "PSI"
 		(shape output)
-		(at 50.8 77.47 180)
+		(at 49.53 80.01 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2681,7 +2657,7 @@
 		)
 		(uuid "4b5db237-47e7-42e9-b7de-6d849f7b4b4d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.7305 77.47 0)
+			(at 43.4605 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2954,6 +2930,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "PSO"
+		(shape input)
+		(at 50.8 77.47 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ee493c53-4741-465a-b3a1-9187e2a55d3c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 44.0048 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
