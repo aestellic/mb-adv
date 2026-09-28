@@ -15,21 +15,22 @@ If you'd like to buy one and are located in the USA, you can visit my store here
 W.I.P
 
 # F.A.Q.
-<u>How does this differ from the GB-Link?</u>
+How does this differ from the GB-Link?
 
-While the GB-Link needs to be connected to a computer/phone to work, the mb_adv draws power directly from the GBA. This lets the mb_adv work without plugging into any external devices!
+- While the GB-Link needs to be connected to a computer/phone to work, the mb_adv draws power directly from the GBA. This lets the mb_adv work without plugging into any external devices!
 
-<u>What does mb_adv stand for?</u>
+What does mb_adv stand for?
 
-It stands for multiboot advance.
+- It stands for multiboot advance.
 
-<u>What the heck is a multiboot?</u>
+What the heck is a multiboot?
 
-It's a small GBA program that can be sent over the link cable. This is the same system that multiplayer games which only required one cartridge use. It's also used for a lot of Pokémon distributions!
+- It's a small GBA program that can be sent over the link cable. This is the same system that multiplayer games which only required one cartridge use. It's also used for a lot of Pokémon distributions!
 
-<u>How did you make this?</u>
+How did you make this?
 
 <img src="images/autism.png" width="300"/>
+
 
 # Credits
 This project would not have been possible without the following people:
