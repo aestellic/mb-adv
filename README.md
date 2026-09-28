@@ -18,6 +18,7 @@ This project would not have been possible without the following people:
 - [prof.beans](https://www.thebeanlabs.com/), who designed the enclosure for the mb_adv.
 - [Bucket Mouse](https://github.com/MouseBiteLabs), who helped with choosing components and designing the schematic and PCB.
 - wheat jerm, who helped with designing the schematic and PCB.
+- [loopj](https://github.com/loopj/gba-link-port), who created the footprint and 3D model for the male GBA link cable connector.
 - [zaksabeast](https://github.com/zaksabeast/Portable-Pico-Multibooter), who served as the inspiration and foundation for this project
 > Note: the mb_adv is not endorsed by zaksabeast in any way, shape, or form.
 
