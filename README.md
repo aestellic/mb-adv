@@ -13,8 +13,13 @@ W.I.P
 
 # Credits
 This project would not have been possible without the following people:
+- [cozydelaney](https://bsky.app/profile/cozydelaney.standingintheodds.com), who designed the logo and provided so much emotional support <3
 - [Ashton Herron (Starlark)](https://github.com/starlarkus), who guided me through the planning stages of the mb_adv.
+- [prof.beans](https://www.thebeanlabs.com/), who designed the enclosure for the mb_adv.
+- [Bucket Mouse](https://github.com/MouseBiteLabs), who helped with choosing components and designing the schematic and PCB.
 - wheat jerm, who helped with designing the schematic and PCB.
+- [zaksabeast](https://github.com/zaksabeast/Portable-Pico-Multibooter), who served as the inspiration and foundation for this project
+> Note: the mb_adv is not endorsed by zaksabeast in any way, shape, or form.
 
 # License
 This project is fully open sourced under the [MIT license](LICENSE).
