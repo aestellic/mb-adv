@@ -1,11 +1,11 @@
 # <img src="images/logo.png" width="200" style="image-rendering: pixelated"/>
 
 > [!WARNING]
-> This project (and its associated firmware) are a work-in-progress and are currently incomplete.
+> This project (and its associated firmware) is a work-in-progress and is currently incomplete.
 
 The mb_adv is a dongle for your GBA which injects multiboot ROMs via link cable.
 
-With it, you can do stuff like [shiny hunt Jirachi without being tethered to a Gamecube](https://bsky.app/profile/cozydelaney.standingintheodds.com/post/3mt42ccd4bk23), boot [Poké Transporter GB](https://github.com/Striaton-Lab-Team/Poke_Transporter_GB), or even use it as a [GB-Link](https://gblink.io/)!
+With it, you can do stuff like [shiny hunt Jirachi without being tethered to a Gamecube](https://bsky.app/profile/cozydelaney.standingintheodds.com/post/3mt42ccd4bk23), boot [Poké Transporter GB](https://github.com/Striaton-Lab-Team/Poke_Transporter_GB), and even [connect your GBA to the internet](https://gblink.io/)!
 
 <img src="images/pcb/pcb_front.png" width="300"/> <img src="images/pcb/pcb_back.png" width="300"/>
 
