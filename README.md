@@ -45,7 +45,7 @@ This project would not have been possible without the following people:
 > Note: the mb_adv is not endorsed by zaksabeast in any way, shape, or form.
 
 # License
-This project is fully open sourced under the [MIT license](LICENSE).
+This project is fully open sourced under the [MIT License](LICENSE).
 
 # Technical References
 See [MANUFACTURING.md](MANUFACTURING.md) and [SCHEMATIC.pdf](SCHEMATIC.pdf)
