@@ -4,4 +4,5 @@
 	(lib (name "logo") (type "KiCad") (uri "${KIPRJMOD}/libs/logo.pretty") (options "") (descr ""))
 	(lib (name "DIP4_SP3T-TOP_4P3X8P6_CNK") (type "KiCad") (uri "${KIPRJMOD}/libs/DIP4_SP3T-TOP_4P3X8P6_CNK.pretty") (options "") (descr ""))
 	(lib (name "BOB-12009") (type "KiCad") (uri "${KIPRJMOD}/libs/BOB-12009") (options "") (descr ""))
+	(lib (name "adafruit") (type "KiCad") (uri "${KIPRJMOD}/libs/adafruit.pretty") (options "") (descr ""))
 )
