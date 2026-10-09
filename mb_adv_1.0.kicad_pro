@@ -542,7 +542,7 @@
       "netlist": "",
       "plot": "gerbers/",
       "specctra_dsn": "",
-      "step": "mb_adv_0.4.step",
+      "step": "mb_adv_1.0.stl",
       "vrml": ""
     },
     "page_layout_descr_file": ""

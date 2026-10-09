@@ -20,9 +20,10 @@
 |Name|Part #|Link|Notes|
 |---|---|---|---|
 |Raspberry Pi Pico|N/A|[4MB](https://www.aliexpress.us/item/3256808040042288.html)|Any 2MB+ Pico (including clones) which follows the official footprint is compatible with the PCB, but the buttons may not line up with the 3d printed case contained in this repo.|
-|Through Hole Diode|1N5819|[DigiKey](https://www.digikey.com/short/z30mzzzh)|Link will automatically add 1N5819, OS103011MS8QP1, and 12009 to your DigiKey cart|
-|SP3T Switch|OS103011MS8QP1|[DigiKey](https://www.digikey.com/short/z30mzzzh)|Link will automatically add 1N5819, OS103011MS8QP1, and 12009 to your DigiKey cart|
-|Logic Level Shifter|12009|[DigiKey](https://www.digikey.com/short/z30mzzzh)|Link will automatically add 1N5819, OS103011MS8QP1, and 12009 to your DigiKey cart|
+|Through Hole Diode|1N5819|[DigiKey](https://www.digikey.com/short/rqfn3zbq)|Link will automatically add 1N5819, OS103011MS8QP1, 12009, and 4682 to your DigiKey cart|
+|SP3T Switch|OS103011MS8QP1|[DigiKey](https://www.digikey.com/short/rqfn3zbq)|Link will automatically add 1N5819, OS103011MS8QP1, 12009, and 4682 to your DigiKey cart|
+|Logic Level Shifter|12009|[DigiKey](https://www.digikey.com/short/rqfn3zbq)|Link will automatically add 1N5819, OS103011MS8QP1, 12009, and 4682 to your DigiKey cart|
+|MicroSD SPI|4682|[DigiKey](https://www.digikey.com/short/rqfn3zbq)|Link will automatically add 1N5819, OS103011MS8QP1, 12009, and 4682 to your DigiKey cart|
 |GBA Male Link Port|N/A|[Alibaba](https://www.alibaba.com/product-detail/6Pin-90-Degree-Curved-Feet-Male_1601634644553.html)|N/A|
 
 6. Once everything arrives, solder the components onto the PCB.
